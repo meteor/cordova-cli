@@ -28,7 +28,7 @@
     "cli"
   ],
   "dependencies": {
-    "cordova-lib": "0.21.6",
+    "cordova-lib": "git://github.com/meteor/cordova-lib-npm.git#master",
     "q": "~0.9",
     "nopt": "~2",
     "underscore":"1.4.4"
